@@ -7,3 +7,5 @@ In this project, our objective is to derive insights from the employee attendanc
 Our focus within the project includes identifying trends in employee behaviour, such as the percentage of individuals working from home, the percentage of employees on sick leave, determining the day of the week with the highest employee presence, and pinpointing the day of the month when most employees work from home.
 
 Through this project, I gained valuable insights into data-cleaning techniques and the process of consolidating information from multiple Excel sheets.
+
+link to the YouTube video: https://www.youtube.com/watch?v=JC66t9eM10s
